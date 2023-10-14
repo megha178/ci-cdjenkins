@@ -1,0 +1,1 @@
+Data from Excel: [('admin', 'admin', 'fail'), ('admin', 'admin123', 'fail'), ('admin', 'password123', 'fail'), ('contact+augg@thetestingacademy.com', 'Wingify@123', 'pass')]
